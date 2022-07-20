@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.26c03081.css",
+    "main.js": "/static/js/main.73ced18d.js",
+    "static/js/377.58997f72.chunk.js": "/static/js/377.58997f72.chunk.js",
+    "static/media/introm.mp4": "/static/media/introm.39556d4ba28c1e6b63ce.mp4",
+    "static/media/intro.mp4": "/static/media/intro.f27155fb840a025f3d61.mp4",
+    "static/media/bg_about.png": "/static/media/bg_about.af9ce95919b0a793b2ba.png",
+    "static/media/background.jpg": "/static/media/background.e253b0f6864e5e1afe98.jpg",
+    "static/media/bg_servicios.png": "/static/media/bg_servicios.3c992c1d2549d9e5cd40.png",
+    "static/media/hardware.png": "/static/media/hardware.007375483e255b63b959.png",
+    "service-worker.js": "/service-worker.js",
+    "static/media/LTWave-BoldItalic.woff": "/static/media/LTWave-BoldItalic.3eccb9c7a8664d883d96.woff",
+    "static/media/LTWave-LightItalic.woff": "/static/media/LTWave-LightItalic.bdc803a2775fcb57872f.woff",
+    "static/media/LTWave-Italic.woff": "/static/media/LTWave-Italic.37814d92caf05e556606.woff",
+    "static/media/LTWave-Light.woff": "/static/media/LTWave-Light.cc4995aca6590990a0f5.woff",
+    "static/media/LTWave-Regular.woff": "/static/media/LTWave-Regular.b015213d7d450041e76a.woff",
+    "static/media/LTWave-Bold.woff": "/static/media/LTWave-Bold.a0b410d1005b23160bdb.woff",
+    "static/media/LTWave-Mono.woff": "/static/media/LTWave-Mono.91cfc2473f8c2d29b28d.woff",
+    "static/media/ai.png": "/static/media/ai.a57de47fa1b07767ffcf.png",
+    "static/media/desarrollo.png": "/static/media/desarrollo.09c0668e007c409bc44d.png",
+    "static/media/LTWaveUI.woff": "/static/media/LTWaveUI.112586ebab8505254d95.woff",
+    "index.html": "/index.html",
+    "main.26c03081.css.map": "/static/css/main.26c03081.css.map",
+    "main.73ced18d.js.map": "/static/js/main.73ced18d.js.map",
+    "377.58997f72.chunk.js.map": "/static/js/377.58997f72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26c03081.css",
+    "static/js/main.73ced18d.js"
+  ]
+}

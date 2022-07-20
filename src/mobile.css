@@ -1,0 +1,230 @@
+@media only screen and (max-width: 670px) {
+
+  .navbar-dark .navbar-toggler {
+    color: #fff;
+    border-color: transparent;
+    opacity: 1;
+    float: right;
+    
+}
+.navbar{
+  height: auto;
+}
+.navbar>.container, .navbar>.container-fluid, 
+.navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, 
+.navbar>.container-xl, .navbar>.container-xxl {
+  display: block;
+
+}
+.sticky-top {
+
+  position: fixed;
+  top: 0;
+  z-index: 1020;
+  width: 100%;
+}
+.Navlogo{
+  margin-left: 1em;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+  font-size: 1em;
+  
+}
+ /* #root { padding-top: 70px; }  */
+
+.navbar-collapse {
+  max-height: none;
+}
+body {
+  margin: 0;
+}
+
+
+.headTxt {
+  top: 30%;
+  left: 2em;
+  font-family: 'LT Wave UI Regular';
+}
+.curvar {
+  font-size: 3em;
+}
+.cabecera{
+
+  background-position-x: center;
+
+}
+
+.ontop {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.servicecol{
+  display: none;
+  height: 100%;
+}
+
+#service {
+  padding-top: 8em;
+}
+
+#about-litio {
+  padding-top: 3em;
+}
+
+.btn-a-b {
+  margin-top: 1em;
+}
+
+  /* .player-video {
+    padding: 0.5em;
+  } */
+
+.carousel-item {
+
+  height: 90vh;
+}
+.seccionContact{
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top: 0;
+}
+.imgFooter{
+  display: none;
+}
+.imgFooterm{
+  height: 6em;
+  padding: 1em;
+}
+.directionFooter {
+  color: #fff;
+  font-size: 1em;
+  margin: .5em;
+  padding-right: 1em;
+  text-align: end;
+}
+.aboutMain{
+  display: none;
+}
+.secionabout {
+  height: 100vh !important;
+}
+.float-end {
+  float: initial !important;
+}
+
+.servicebottom {
+  background-color: transparent;
+  padding-top: 1em;
+  margin: 1em;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.letrasdobles{
+  color: #fff;
+  font-family: 'LT Wave Regular';
+  font-size: 2em;
+
+}
+.imgabout {
+  width: 12em;
+}
+.headservicios {
+  margin-top: 5em;
+}
+
+.headAbout {
+  margin-top: 1em;
+}
+
+.player-video {
+  padding: 2px;
+}
+
+.bg-sevices {
+  background:  url("./assets/img/bg_servicios.png") no-repeat center top;
+  background-size: cover;
+  height: 100vh;
+  color: #fff;
+  font-family: 'LT Wave Light';
+}
+
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.content {
+  padding: 16px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
+.title-about-litio {
+  margin: 0em;
+  font-size: 1.35em;
+}
+
+.option-about-litio h5{
+  font-size: 1em;
+}
+
+}
+@media (min-width: 601px){
+  #carouselServicios{
+    display: none;
+  }
+  .imgFooterm{display: none;}
+  #carouselAbout{display: none;}
+}
+@media only screen and (max-height:600px) {
+  .headservicios {
+    margin-top: 0em !important;
+  }
+  .secionabout {
+    padding-top: 0em !important;
+
+}
+.seccionContact{
+  min-height: 35em;
+}
+.bg-sevices{
+  min-height: 40em;
+}
+.carousel-item {
+  height: 90vh;
+  min-height: 40em;
+}
+textarea{
+  height: 8em !important;
+}
+.directionFooter {
+
+  font-size: 0.8em;
+
+
+}
+}
